@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>Tailwhip - Contact</title>
+        <link href="styles/style.css" type="text/css" rel="stylesheet">
+        <script src="scripts/script.js"></script>
+    </head>
+
+    <body>
+        <div>
+            <div class="navbar">
+                <div class="logo">
+                    <a href="index.html"><img src="images/tailDrawing.png" class="logo-img" alt="Rhode Island Sunset over 'Tail-Whip'"></a>
+                </div>
+        
+                <h5 id="logo-text">Tailwhip</h5>
+        
+                <nav>
+                    <ul>
+                        <li class="nav-li"><a href="index.html">HOME</a></li>
+                        <li class="nav-li"><a href="about.html">ABOUT</a></li>
+                        <li class="nav-li"><a href="store.html">STORE</a></li>
+                        <li class="nav-li"><a href="contact.html">CONTACT</a></li>
+                        <li class="nav-li"><a href="weather.html">WEATHER</a></li>
+                        <li class="nav-li"><a href="spots.html">SPOTS</a></li>
+                    </ul>
+                </nav>
+            </div>
+
+            <div class="row" class="center">
+                <div class="description" id="author">
+                    <h1 class="center">Contact</h1>
+                    <ul>
+                        <li class="nav-li">Send us a<a href="mailto: jamingregory@gmail.com" id="messenger">Message!</a></li>
+                        <br>
+                        
+                        <li class="nav-li"><form action="mail_handler.php" method="POST">
+                            Name? <input type="text" id="name" name="name" placeholder="Your Name..." required>
+                            <br>
+
+                            Email? <input type="text" id="email" name="email" placeholder="Your Emaill..." required>
+                            <br>
+                            <br>
+
+                            <label for="message">Leave your mark here:</label>
+                            <br>
+                            <textarea id="message" name="message" placeholder="What're you thinking about today?..." style="height:200px; width:300px;" required></textarea>
+                            <br>
+
+                            <input type="submit" value="submit">
+                        </form></li>
+                    </ul>
+                </div>
+
+                <div>
+                    <img src="images/jayFish.JPG" width="300px" class="images" alt="Owner, Jay Marshall">
+                </div>
+            </div>
+        </div>
+    </body>
+
+    <footer>
+        <div class="footer-content">
+            <h3>Developer Information</h3>
+            <p>Nicholas Marshall</p>
+            <a href="mailto:nickjrmarshall@gmail.com"><p>nickjrmarshall@gmail.com</p></a>
+            <br>
+            <p>Newport Native</p>
+        </div>
+    </footer>
+</html>

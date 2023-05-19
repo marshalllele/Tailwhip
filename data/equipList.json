@@ -1,0 +1,7 @@
+{
+    "items": [
+        {"item": "Fishing Rod", "price": "Price: High", "brand": "Recommended Brand: Shimano"},
+        {"item": "Fishing Line", "price": "Price: Low", "brand": "Recommended Brand: SpiderWire Stealth Blue"},
+        {"item": "Clothing", "price": "Price: Medium to High", "brand": "Recommended Brand: Tailwhip, of course!"}
+    ]
+}

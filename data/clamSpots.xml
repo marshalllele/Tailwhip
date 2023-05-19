@@ -1,0 +1,21 @@
+<root>
+    <spot>
+        <name>North Kingstown</name>
+        <public>Public Access?: Yes</public>
+        <output>Clam Output: High</output>
+        <description>After a short walk through some woods, a beautiful beach comes into view. Great clamming is to be had at this spot.</description>
+    </spot>
+    <spot>
+        <name>Jamestown</name>
+        <public>Public Access?: Yes</public>
+        <output>Clam Output: Medium</output>
+        <description>With a great view of the Newport bridge and the rest of Narragansett Bay, this spot is an amazing place to bring your friends and family.</description>
+    </spot>
+    <spot>
+        <name>Ocean Drive</name>
+        <public>Public Access?: Yes</public>
+        <output>Clam Output: Low</output>
+        <description>Another picturesque view, Ocean Drive in Newport, RI is surrounded by mansions built during the roaring '20s and offers a direct view out into the Atlantic Ocean.</description>
+    </spot>
+</root>
+        

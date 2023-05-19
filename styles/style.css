@@ -7,12 +7,12 @@
 
 @font-face {
     font-family: 'Recoleta';
-    src: url(../fonts/recoleta-font/Recoleta-Black.ttf) format('truetype');
+    src: url(../fonts/Recoleta-Black.ttf) format('truetype');
 }
 
 @font-face {
     font-family: 'Raleway-light';
-    src: url(../fonts/Raleway/static/Raleway-Light.ttf) format('truetype');
+    src: url(../fonts/Raleway-Light.ttf) format('truetype');
 }
 
 #learnMore {
